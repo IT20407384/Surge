@@ -1,0 +1,13 @@
+.regcon {
+  background-color: rgb(149, 203, 228);
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 80px;
+  margin: 50px;
+  width: 40%;
+}
+
+.regbtn {
+  background-color: rgb(139, 135, 135);
+  color: white;
+}
